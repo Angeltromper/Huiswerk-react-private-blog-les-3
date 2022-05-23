@@ -3,9 +3,9 @@ import {Route, Switch,Redirect} from 'react-router-dom';
 import './App.css';
 import Home from './pages/Home';
 import BlogPost from "./pages/BlogPost";
-import Login from ' /pages/Login';
-import Navigation from './components/Navigation';
-import BlogOverview from './pages/BlogOverview';
+import Login from ' ./pages/Login';
+import Navigation from ' ./components/Navigation';
+import BlogOverview from ' ./pages/BlogOverview';
 
 
 

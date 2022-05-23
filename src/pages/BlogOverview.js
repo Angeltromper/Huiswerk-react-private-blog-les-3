@@ -6,7 +6,7 @@ import posts from '/data/post.json';
 function BlogOverview() {
     return (
         <section>
-            <h1>Blogoverzichts pagina</h1>
+            <h1>Blogoverzicht pagina</h1>
             <h3>Aantal blogposts: {posts.length} </h3>
             <ul>
                 {posts.map((post) => {
